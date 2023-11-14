@@ -56,6 +56,3 @@ Feel free to reach out for collaborations or questions:
 ## 📝 License
 Comply copy right please! :)
 
----
-
-We hope this project inspires and empowers you to explore the fascinating intersection of machine learning and socio-economic studies. Happy coding and discovering!
